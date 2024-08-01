@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Better PCPartPicker
 // @namespace    https://github.com/victornpb
-// @version      0.5
+// @version      0.6
 // @description  Toggle between table and grid view on PCPartPicker
 // @author       Victor
 // @contributionURL https://www.buymeacoffee.com/vitim
