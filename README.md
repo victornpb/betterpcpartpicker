@@ -13,7 +13,7 @@ A few UI Improvements for the https://pcpartpicker.com/ website
    * Edge: [Tampermonkey][edge_tampermonkey]  
    * Safari: [Tampermonkey][safari_tampermonkey]  
     
-1. Install Undiscord:  
+1. Install it:  
   [![][greasyfork_icon]][greasyfork_url]
 
 
@@ -35,7 +35,6 @@ A few UI Improvements for the https://pcpartpicker.com/ website
   [userscrips_faq]: https://en.wikipedia.org/wiki/Userscript
   [greasyfork_icon]: https://user-images.githubusercontent.com/3372598/166113712-1bc3d654-1342-4f1e-9845-21c3b21524b1.png
   [openuserjs_icon]: https://user-images.githubusercontent.com/3372598/166113714-5a2ede39-8d66-43a8-b5da-8f1897cb3121.png
-
 
 <!-- Extensions -->
   [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
